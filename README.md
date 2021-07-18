@@ -1,1 +1,1 @@
-Hi, I'm Risako
+Hi, I'm Risako. I'm a 2nd-year master's student in computer science interested in web development and computer vision. Also, I'm an OSS contributor for some projects. You can check out the latest contributions from the pinned repositories or the stats below🎈
